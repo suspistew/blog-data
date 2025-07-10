@@ -1,0 +1,60 @@
+name: meta.json or blog-post.md modified
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'posts/src/**'
+jobs:
+  convert_and_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.1.7
+      - uses: actions/setup-python@v5.1.1
+      - name: script
+        run: |
+          pip install markdown2
+          pip install pygments
+          echo "Installation pip completed"
+          git config user.email ${{secrets.MAIL}}
+          git config user.name grzi
+          git fetch --prune --unshallow
+          git fetch --all
+          git remote add upstream_secured https://grzi:${{secrets.GITHUB_TOKEN}}@github.com/suspistew/blog-data > /dev/null 2>&1
+          echo "Git configuration completed"
+          
+          commit_id=`git log --format="%H" -n 2`
+          echo "Commit ID: $commit_id"
+          modified_files=$(git show --pretty="" --name-only $commit_id)
+          
+          
+          filtered_files=$(echo "$modified_files" | grep 'posts/src/')
+          
+          
+          modified=$(echo "$filtered_files" | awk -F '/' '{OFS="/"; $NF=""; print $0}' | sort --unique)
+          
+          
+          for i in $modified; do 
+            if [ ! -d "$i" ]; then
+                echo "Directory $i has been deleted. Skipping..."
+                if [ -d "posts/global_meta.json" ]; then
+                  rm posts/global_meta.json
+                fi
+            else
+              echo "Directory $i has been updated. Creating files..."
+              python3 .github/scripts/markdown.py $i/blog-post.md > $i/blog-post.html
+              git add $i/blog-post.html
+            fi
+          done
+          
+          echo "Html conversion completed"
+
+          global_meta_updated=`python3 .github/scripts/global_meta.py `
+          echo $global_meta_updated
+          echo $global_meta_updated>posts/global_meta.json
+          git add posts/global_meta.json
+          git status 
+          
+          git commit -m "chore: Convert modified blog-post(s) to html and update global_meta.json"
+          git push -u upstream_secured HEAD:main
