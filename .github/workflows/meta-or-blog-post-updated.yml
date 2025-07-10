@@ -21,7 +21,7 @@ jobs:
           git config user.name grzi
           git fetch --prune --unshallow
           git fetch --all
-          git remote add upstream_secured https://grzi:${{secrets.GITHUB_TOKEN}}@github.com/suspistew/blog-data > /dev/null 2>&1
+          git remote add upstream_secured https://suspistew:${{secrets.GITHUB_TOKEN}}@github.com/suspistew/blog-data > /dev/null 2>&1
           echo "Git configuration completed"
           
           commit_id=`git log --format="%H" -n 2`
