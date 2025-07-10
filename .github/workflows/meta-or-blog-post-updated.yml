@@ -1,5 +1,8 @@
 name: meta.json or blog-post.md modified
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
