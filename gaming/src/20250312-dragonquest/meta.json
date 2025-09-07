@@ -1,7 +1,7 @@
 {
   "title": "Dragon Warrior (nes)",
   "description": "Le RPG également appellé Dragon quest, premier de son genre.",
-  "tags": ["pc"],
+  "tags": ["nes"],
   "date": "2025-03-12",
   "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/dragon_quest.jpg?raw=true",
   "published": false,
