@@ -1,0 +1,14 @@
+{
+  "title": "Harry potter et l'ordre du phénix",
+  "description": "<code>Harry potter et l'ordre du phénix</code> Un jeu d’aventure où l'on incarne Harry dans Poudlard, résolvant des énigmes, et combattant les forces du mal.",
+  "tags": ["ps2"],
+  "date": "2023-08-11",
+  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/hp5ps2.webp?raw=true",
+  "full": "https://github.com/suspistew/blog-data-statics/blob/main/galleries/harry-potter-5-ps2/1.webp?raw=true",
+  "gallery":[
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/harry-potter-5-ps2/1.webp?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/harry-potter-5-ps2/2.webp?raw=true"
+  ],
+  "published": true,
+  "note": 3
+}

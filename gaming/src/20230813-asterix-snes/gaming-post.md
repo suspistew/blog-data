@@ -15,4 +15,4 @@ Reprise en main des controles, ça y est, je me souviens. On est bien sur un pla
 Deuxième session, cette fois, je vais beaucoup plus loin, et j'insiste, je finis par atteindre une première fois l'acte 4. Je finis par terminer le jeu, après avoir craqué et regardé une vidéo de solution pour les derniers niveaux car je bloquais beaucoup trop...
 
 ## Ressources
-Le livret du jeu (sauvegarde personnelle): https://github.com/suspistew/blog-data-statics/blob/main/booklets/asterix.pdf
+Le livret du jeu (sauvegarde personnelle): <a href="https://github.com/suspistew/blog-data-statics/blob/main/booklets/asterix.pdf">Le livret du jeu</a>
