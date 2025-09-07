@@ -1,0 +1,12 @@
+{
+  "title": "Krusty's fun house (NES)",
+  "description": "Un jeu de réflexion et de plateforme où le joueur incarne Krusty le Clown, sur NES",
+  "tags": ["nes"],
+  "date": "2024-08-05",
+  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/krustynes.jpg?raw=true",
+  "full": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/krustynes.jpg?raw=true",
+  "gallery":[
+  ],
+  "published": true,
+  "note": 4
+}

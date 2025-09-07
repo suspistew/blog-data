@@ -1,6 +1,6 @@
 {
   "title": "Devil world (NES)",
-  "description": "<code>Harry potter et l'ordre du phénix</code> Un jeu vidéo de Shigeru Miyamoto, mais sans Mario ou donkey kong.",
+  "description": "<code>Devil world</code> Un jeu vidéo de Shigeru Miyamoto, mais sans Mario ou donkey kong.",
   "tags": ["nes"],
   "date": "2024-07-31",
   "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/devil_world.jpg?raw=true",
@@ -8,7 +8,7 @@
   "gallery":[
     "https://github.com/suspistew/blog-data-statics/blob/main/galleries/devil_world_nes/1.png?raw=true",
     "https://github.com/suspistew/blog-data-statics/blob/main/galleries/devil_world_nes/2.png?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/devil_world_nes/2.png?raw=true"
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/devil_world_nes/3.png?raw=true"
   ],
   "published": true,
   "note": 4
