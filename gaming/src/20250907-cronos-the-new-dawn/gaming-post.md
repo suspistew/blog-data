@@ -1,2 +1,9 @@
-# test
-hehehe
+## Introduction
+Cronos est un jeu de survival horror, développé par le studio <code>Bloober team</code>.
+Le jeu se déroule dans un mix entre futur post apocalyptique et Pologne des années 1980.
+En vue à la troisième personne, on incarne un personnage appellé <code>La voyageuse</code>, 
+une sorte de soldat super équipé (enfin peut être pas au début), évolutif et modulaire.
+
+## Prise en main
+
+Test
