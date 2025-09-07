@@ -5,6 +5,11 @@
   "date": "2025-09-07",
   "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/cronos.png?raw=true",
   "full": "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/cronos.png?raw=true",
+  "gallery":[
+    "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/cronos.png?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/cronos.png?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/cronos.png?raw=true"
+  ],
   "published": true,
   "note": 7.5
 }
