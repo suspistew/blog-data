@@ -1,0 +1,63 @@
+name: meta.json or gaming-post.md modified
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'gaming/src/**'
+jobs:
+  convert_and_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.1.7
+      - uses: actions/setup-python@v5.1.1
+      - name: script
+        run: |
+          pip install markdown2
+          pip install pygments
+          echo "Installation pip completed"
+          git config user.email ${{secrets.MAIL}}
+          git config user.name grzi
+          git fetch --prune --unshallow
+          git fetch --all
+          git remote add upstream_secured https://suspistew:${{secrets.GITHUB_TOKEN}}@github.com/suspistew/blog-data > /dev/null 2>&1
+          echo "Git configuration completed"
+          
+          commit_id=`git log --format="%H" -n 2`
+          echo "Commit ID: $commit_id"
+          modified_files=$(git show --pretty="" --name-only $commit_id)
+          
+          
+          filtered_files=$(echo "$modified_files" | grep 'gaming/src/')
+          
+          
+          modified=$(echo "$filtered_files" | awk -F '/' '{OFS="/"; $NF=""; print $0}' | sort --unique)
+          
+          
+          for i in $modified; do 
+            if [ ! -d "$i" ]; then
+                echo "Directory $i has been deleted. Skipping..."
+                if [ -d "gaming/global_meta.json" ]; then
+                  rm gaming/global_meta.json
+                fi
+            else
+              echo "Directory $i has been updated. Creating files..."
+              python3 .github/scripts/markdown.py $i/gaming-post.md > $i/gaming-post.html
+              git add $i/gaming-post.html
+            fi
+          done
+          
+          echo "Html conversion completed"
+
+          global_meta_updated=`python3 .github/scripts/global_meta.py `
+          echo $global_meta_updated
+          echo $global_meta_updated>gaming/global_meta.json
+          git add gaming/global_meta.json
+          git status 
+          
+          git commit -m "chore: Convert modified gaming-post(s) to html and update global_meta.json"
+          git push -u upstream_secured HEAD:main
