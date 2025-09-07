@@ -53,7 +53,7 @@ jobs:
           
           echo "Html conversion completed"
 
-          global_meta_updated=`python3 .github/scripts/global_meta.py `
+          global_meta_updated=`python3 .github/scripts/global_meta_gaming.py `
           echo $global_meta_updated
           echo $global_meta_updated>gaming/global_meta.json
           git add gaming/global_meta.json
