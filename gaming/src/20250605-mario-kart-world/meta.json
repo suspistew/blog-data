@@ -1,0 +1,12 @@
+{
+  "title": "Mario Kart World",
+  "description": "Premier jeu Nintendo de la Switch 2, mon premier Mario kart ever (et oui)",
+  "tags": ["Nintendo Switch 2"],
+  "date": "2025-06-05",
+  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/mkw.jpg?raw=true",
+  "full": "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/mkw.jpg?raw=true",
+  "gallery":[
+  ],
+  "published": true,
+  "note": 8.0
+}
