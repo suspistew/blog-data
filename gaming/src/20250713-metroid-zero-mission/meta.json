@@ -1,0 +1,17 @@
+{
+  "title": "Metroid Zéro mission",
+  "description": "<code>Metroid  Zéro mission</code>Remake du premier jeu métroid, cette fois sur GBA. Joué directement sur switch 2.",
+  "tags": ["Nintendo Switch 2"],
+  "date": "2025-07-13",
+  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/metroid.jpg?raw=true",
+  "full": "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/metroid.jpg?raw=true",
+  "gallery":[
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/metroid-zero-mission/1.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/metroid-zero-mission/2.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/metroid-zero-mission/3.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/metroid-zero-mission/4.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/metroid-zero-mission/5.jpeg?raw=true"
+  ],
+  "published": true,
+  "note": 8.5
+}
