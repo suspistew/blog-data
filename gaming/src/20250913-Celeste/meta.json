@@ -1,0 +1,23 @@
+{
+  "title": "Celeste",
+  "description": "Le plateformer indépendant, pixel art magnifique et au gameplay presque parfait, qui m'a redonné goût au genre.",
+  "tags": ["Nintendo Switch 2"],
+  "date": "2025-09-13",
+  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/cronos.png?raw=true",
+  "full": "https://github.com/suspistew/blog-data-statics/blob/main/gallery/5.jpeg?raw=true",
+  "gallery":[
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/1.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/2.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/3.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/4.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/5.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/6.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/7.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/8.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/9.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/10.jpeg?raw=true",
+    "https://github.com/suspistew/blog-data-statics/blob/main/gallery/11.jpeg?raw=true"
+  ],
+  "published": true,
+  "note": 9
+}
