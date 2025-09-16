@@ -22,7 +22,7 @@ Attention, les éléments ne sont pas dans l'ordre d'appréciations de ces nouve
 - Fire Emblem Fortune’s Weave (Switch 2)
 - Plein d'Amiboos
 
-## Je m'en fou 🤷
+## Je m'en fous 🤷
 
 - Mario Tennis Fever (Switch 2) 
 - Storm Lancers (Switch) 
@@ -39,12 +39,12 @@ Attention, les éléments ne sont pas dans l'ordre d'appréciations de ces nouve
 
 ## Je suis COLERE 😡
 
-- Suika Game Planet (Switch & Switch 2) 
+- Suika Game Planet (Switch & Switch 2)  => Qu'est-ce que ça fait dans un direct ? Sérieusement...
 - Légendes Pokémon Z-A (Switch & Switch 2) + Extension
 - Super Mario Galaxy + Super Mario Galaxy 2 
 - Super Mario Bros. Wonder: Nintendo Switch 2 Edition
 
-
+La stratégie de Nintendo à la fois sur les rééditions de jeu, sur les DLC, sur les prix est parfois très douteuse.
 
 
 

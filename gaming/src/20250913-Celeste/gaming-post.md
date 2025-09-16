@@ -14,7 +14,7 @@ shot de dopamine à chaque défi réussi. Le jeu se veut assez perspicace dans s
 éxecuter. Le personnage répond au doigt et à l'oeil et même niveau design graphique, les éléments sont visuellement pensé pour nous donner toutes
 les informations dont on a besoin, sans nécessiter une UI, en laissant le jeu prendre le dessûs. 
 
-Deuxièmement, les graphismes. Alors oui, on est sûr du pixel art, oui c'est du pixel art sur des très petits canvas. Mais l'ensemble est tellement cohérent, coloré, vivant, agr&ble à l'oeil et 
+Deuxièmement, les graphismes. Alors oui, on est sûr du pixel art, oui c'est du pixel art sur des très petits canvas. Mais l'ensemble est tellement cohérent, coloré, vivant, agréable à l'oeil et 
 contrasté pour toujours savoir où regarder, quoi faire, et parfois simplement admirer les écrans qui nous sont proposés.
 
 Enfin, la partie histoire, au centre de la progression. Oui, j'ai pu être atteint par les lignes de dialogues, et par le message passé. Je dois avouer que mon obsession pour monter jusqu'en haut de la 
@@ -22,5 +22,5 @@ montagne doit potentiellement venir de là, car oui, j'ai bel et bien ouvert et 
 
 Reste maintenant le post game, qui va certainement me demander au moins autant d'heures, si ce n'est plus.
 
-
+Celeste a définitivement pris la place de top 1 des jeux indés auxquels j'ai pu jouer. Jusqu'à la prochaine pépite !
 
