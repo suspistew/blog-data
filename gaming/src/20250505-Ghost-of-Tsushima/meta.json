@@ -3,14 +3,14 @@
   "description": "Jeu d'action aventure, par Sucker Punch, pendant l'invasion Mongol du Japon.",
   "tags": ["ps5"],
   "date": "2025-05-05",
-  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/ghostoftsushima.jpg?raw=true",
-  "full": "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/ghostoftsushima.jpg?raw=true",
+  "miniature": "https://daronquest.fr/miniatures/ghostoftsushima.jpg",
+  "full": "https://daronquest.fr/full-picture/ghostoftsushima.jpg",
   "gallery":[
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/ghost_of_tsushima/1.jpg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/ghost_of_tsushima/2.jpg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/ghost_of_tsushima/3.jpg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/ghost_of_tsushima/4.jpg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/ghost_of_tsushima/5.jpg?raw=true"
+    "https://daronquest.fr/galleries/ghost_of_tsushima/1.jpg",
+    "https://daronquest.fr/galleries/ghost_of_tsushima/2.jpg",
+    "https://daronquest.fr/galleries/ghost_of_tsushima/3.jpg",
+    "https://daronquest.fr/galleries/ghost_of_tsushima/4.jpg",
+    "https://daronquest.fr/galleries/ghost_of_tsushima/5.jpg"
   ],
   "published": true,
   "note": 7.5

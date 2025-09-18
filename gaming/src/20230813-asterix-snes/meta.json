@@ -3,12 +3,12 @@
   "description": "<code>Asterix</code>, jeu de plateforme où on incarne Astérix, affrontant les Romains et surmontant divers obstacles pour sauver son village.",
   "tags": ["snes"],
   "date": "2023-08-13",
-  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/asterix-snes.webp?raw=true",
-  "full": "https://github.com/suspistew/blog-data-statics/blob/main/galleries/asterix-snes/1.webp?raw=true",
+  "miniature": "https://daronquest.fr/miniatures/asterix-snes.webp",
+  "full": "https://daronquest.fr/galleries/asterix-snes/1.webp",
   "gallery":[
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/asterix-snes/1.webp?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/asterix-snes/2.webp?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/asterix-snes/3.webp?raw=true"
+    "https://daronquest.fr/galleries/asterix-snes/1.webp",
+    "https://daronquest.fr/galleries/asterix-snes/2.webp",
+    "https://daronquest.fr/galleries/asterix-snes/3.webp"
   ],
   "published": true,
   "note": 6

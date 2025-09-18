@@ -3,8 +3,8 @@
   "description": "Mon avis concernant le nintendo direct proposé ce vendredi 12/09/2025. Du bon et du vraiment pas bon.",
   "tags": ["Nintendo Switch 2"],
   "date": "2025-09-12",
-  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/direct12092025.jpg?raw=true",
-  "full": "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/direct12092025.jpg?raw=true",
+  "miniature": "https://daronquest.fr/miniatures/direct12092025.jpg",
+  "full": "https://daronquest.fr/full-picture/direct12092025.jpg",
   "gallery":[],
   "published": true
 }

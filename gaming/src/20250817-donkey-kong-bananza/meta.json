@@ -3,14 +3,14 @@
   "description": "<code>Donkey kong : Bananza</code> sur nintendo switch 2, un jeu de plateforme / action développé par Nintendo avec comme personnage notre gorille préféré.",
   "tags": ["Nintendo Switch 2"],
   "date": "2025-08-17",
-  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/donkeykongbananza.jpg?raw=true",
-  "full": "https://github.com/suspistew/blog-data-statics/blob/main/full-picture/donkeykongbananza.jpg?raw=true",
+  "miniature": "https://daronquest.fr/miniatures/donkeykongbananza.jpg",
+  "full": "https://daronquest.fr/full-picture/donkeykongbananza.jpg",
   "gallery":[
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/donkey_kong_bananza/1.jpeg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/donkey_kong_bananza/2.jpeg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/donkey_kong_bananza/3.jpeg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/donkey_kong_bananza/4.jpeg?raw=true",
-    "https://github.com/suspistew/blog-data-statics/blob/main/galleries/donkey_kong_bananza/5.jpeg?raw=true"
+    "https://daronquest.fr/galleries/donkey_kong_bananza/1.jpeg",
+    "https://daronquest.fr/galleries/donkey_kong_bananza/2.jpeg",
+    "https://daronquest.fr/galleries/donkey_kong_bananza/3.jpeg",
+    "https://daronquest.fr/galleries/donkey_kong_bananza/4.jpeg",
+    "https://daronquest.fr/galleries/donkey_kong_bananza/5.jpeg"
   ],
   "published": true,
   "note": 9.5

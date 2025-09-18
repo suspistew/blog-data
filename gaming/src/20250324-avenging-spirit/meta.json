@@ -3,7 +3,7 @@
   "description": "Une plateformer/shooter où on joue un fantome qui peut prendre possession des guerriers qu'il croise.",
   "tags": ["gb"],
   "date": "2025-03-24",
-  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/avengingspirit.png?raw=true",
+  "miniature": "https://daronquest.fr/miniatures/avengingspirit.png",
   "published": false,
   "note": 5
 }

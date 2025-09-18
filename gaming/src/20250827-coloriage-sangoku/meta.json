@@ -3,8 +3,8 @@
   "description": "J'ai réalisé ce petit dessin en m'inspirant du sangoku du générique, ça fait un coloriage sympathique pour les enfants, je le partage",
   "tags": ["Dessin"],
   "date": "2025-08-27",
-  "miniature": "https://github.com/suspistew/blog-data-statics/blob/main/miniatures/sangoku.jpg?raw=true",
-  "full": "https://github.com/suspistew/blog-data-statics/blob/main/drawings/sangoku.jpeg?raw=true",
+  "miniature": "https://daronquest.fr/miniatures/sangoku.jpg",
+  "full": "https://daronquest.fr/drawings/sangoku.jpeg",
   "gallery":[],
   "published": true
 }
